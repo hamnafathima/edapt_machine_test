@@ -1,4 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<uses-permission android:name="android.permission.INTER-NET"/>
     <application
         android:label="edapt_machine_test"
         android:name="${applicationName}"
